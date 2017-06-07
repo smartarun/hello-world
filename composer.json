@@ -1,0 +1,17 @@
+"repositories": [
+    {
+        "type":"package",
+        "package": {
+          "name": "smartarun/hello-world",
+          "version":"master",
+          "source": {
+              "url": "https://github.com/smartarun/hello-world.git",
+              "type": "git",
+              "reference":"master"
+            }
+        }
+    }
+],
+"require": {
+    "smartarun/hello-world": "master"
+}
